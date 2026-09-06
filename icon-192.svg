@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+<rect width="192" height="192" rx="40" fill="#071812"/>
+<circle cx="96" cy="96" r="64" fill="#0b2e20" stroke="#d7f5df" stroke-width="5"/>
+<path d="M96 43l12 31 33 2-25 21 8 32-28-18-28 18 8-32-25-21 33-2z" fill="#d7f5df"/>
+<text x="96" y="169" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#d7f5df">SCOUT HUB</text>
+</svg>

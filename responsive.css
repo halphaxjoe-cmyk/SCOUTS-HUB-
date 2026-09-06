@@ -1,0 +1,7 @@
+
+@media(max-width:420px){
+  .hero h1{font-size:2rem}
+  .stats{grid-template-columns:1fr 1fr}
+  .quick-actions button{min-height:88px}
+  .chat-form{grid-template-columns:1fr 48px}
+}
